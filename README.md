@@ -1,0 +1,2 @@
+# GansleyCog
+Cog for RedBot
